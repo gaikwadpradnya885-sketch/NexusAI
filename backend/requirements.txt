@@ -1,0 +1,9 @@
+pip freeze
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+pypdf
+chromadb
+sentence-transformers
+langchain
