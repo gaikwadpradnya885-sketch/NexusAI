@@ -1,3 +1,4 @@
+pip freeze
 fastapi
 uvicorn
 sqlalchemy
@@ -6,4 +7,3 @@ pypdf
 chromadb
 sentence-transformers
 langchain
-langchain-community
